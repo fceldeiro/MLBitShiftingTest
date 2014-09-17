@@ -4,4 +4,7 @@
    <FileRef
       location = "group:BitShiftingTest/BitShiftingTest.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Podfile">
+   </FileRef>
 </Workspace>
